@@ -1,0 +1,1 @@
+print("This is first example of Github")
